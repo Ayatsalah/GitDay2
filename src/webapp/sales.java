@@ -6,5 +6,6 @@ public class sales {
     //20%
 
     //more sale
-
+// added holiday sales 25%
+    //deals
 }
